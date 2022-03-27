@@ -1,3 +1,3 @@
 #!/bin/bash
 dnf module enable nodejs:14
-dnf install nodejs
+dnf install -y nodejs
