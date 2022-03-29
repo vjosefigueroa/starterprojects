@@ -1,0 +1,19 @@
+{
+  "name": "nodejs-test-app",
+  "version": "2.0.0",
+  "description": "A quick check for your MERN stack installation",
+  "author": "Jose Figueroa",
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "express"
+  ],
+  "main": "template.js",
+  "scripts": {
+    "start": "node server/server.js"
+  },
+  "dependencies": {
+    "express": "4.17.1"
+  },
+  "devDependencies": {}
+}
